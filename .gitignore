@@ -3,3 +3,6 @@ yarn-error.log
 ormconfig.json
 tmp/*
 !tmp/.gitkeep
+.env
+ormconfig.json
+coverage
